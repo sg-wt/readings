@@ -1,5 +1,7 @@
 # Worth reading
 
+- [Babel preset to optimize eact app perf](https://github.com/jamiebuilds/babel-react-optimize)
+
 - [Teleport your React Components](https://github.com/gregberge/react-teleporter)
 
 - [Optimizing performance of a challenging UI with React -- Addy Osmani](https://levelup.gitconnected.com/secrets-of-javascript-a-tale-of-react-performance-optimization-and-multi-threading-9409332d349f)
