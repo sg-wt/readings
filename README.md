@@ -1,6 +1,6 @@
 # Worth reading
 
-- [Babel preset to optimize eact app perf](https://github.com/jamiebuilds/babel-react-optimize)
+- [Babel preset to optimize React app perf](https://github.com/jamiebuilds/babel-react-optimize)
 
 - [Teleport your React Components](https://github.com/gregberge/react-teleporter)
 
